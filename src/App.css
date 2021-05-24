@@ -1,6 +1,11 @@
+@import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
+
+
 .App {
   text-align: center;
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -23,6 +28,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+#mapid { height: 180px; width: 180px;}
 
 .App-link {
   color: #61dafb;
